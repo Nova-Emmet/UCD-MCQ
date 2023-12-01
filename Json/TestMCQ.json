@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "questionText": "An applicant is seeking admission to a Master’s program (MSc). This applicant happens to have influential parents. Now, you, as an admissions committee member, are faced with a decision: Should this applicant be given a position that has become available due to another student declining their offer?",
+      "answers": [
+        "You evaluate the applicant based on their qualifications and merit alone.",
+        "You consider the applicant's qualifications and merit but also take into account any potential connections.",
+        "You automatically reject the applicant because of their influential parents.",
+        "You favor the applicant solely because of their influential parents."
+      ]
+    },
+    {
+      "questionText": "You want to purchase an equipment that is not budgeted. What do you do?",
+      "answers": [
+        "You buy the equipment from the other allocated funds.",
+        "You write a case for it and request for additional funds.",
+        "You submit a proposal revising the allocated budget to accommodate the equipment.",
+        "You don’t buy the equipment."
+      ]
+    },
+    {
+      "questionText": "You formulated a survey and circulated the survey. After a day, once you already have a few responses, you modify the survey. What will you do with your findings?",
+      "answers": [
+        "You ask the previous respondents to redo the survey.",
+        "You only keep the new responses.",
+        "You don't remove any responses and inform the team about the changes made.",
+        "You keep all the responses but make a note of the date you make the changes as well as mention what the changes were."
+      ]
+    },
+    {
+      "questionText": "You are writing a paper for submission to a journal and your P.I. asks you to add a name to the author section, of someone who did not contribute to the paper. What will you do?",
+      "answers": [
+        "You publish the paper without the P.I.",
+        "Ask the PI for an explanation.",
+        "Add the name of the author.",
+        "Meet the person whose name is to be added and discuss the situation."
+      ]
+    },
+    {
+      "questionText": "You discover a case of sexual harassment accidentally. What do you do?",
+      "answers": [
+        "You yell and inform them of your presence.",
+        "Call someone (e.g., security, supervisor) to address the situation.",
+        "Make a record of the incident, including details and context.",
+        "Report the incident to the appropriate authorities."
+      ]
+    },
+    {
+      "questionText": "Testing with 3 answers.",
+      "answers": [
+        "Here's the first.",
+        "Here's the second.",
+        "Here's the third."
+      ]
+    },
+    {
+      "questionText": "Testing with 2 answers.",
+      "answers": [
+        "Here's the first.",
+        "Here's the second."
+      ]
+    }
+  ]
+}
