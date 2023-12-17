@@ -7,7 +7,8 @@
         "You consider the applicant's qualifications and merit but also take into account any potential connections.",
         "You automatically reject the applicant because of their influential parents.",
         "You favor the applicant solely because of their influential parents."
-      ]
+      ],
+      "correctAnswers": [1]
     },
     {
       "questionText": "You want to purchase an equipment that is not budgeted. What do you do?",
@@ -16,7 +17,8 @@
         "You write a case for it and request for additional funds.",
         "You submit a proposal revising the allocated budget to accommodate the equipment.",
         "You don’t buy the equipment."
-      ]
+      ],
+      "correctAnswers": [0, 1]
     },
     {
       "questionText": "You formulated a survey and circulated the survey. After a day, once you already have a few responses, you modify the survey. What will you do with your findings?",
@@ -25,7 +27,8 @@
         "You only keep the new responses.",
         "You don't remove any responses and inform the team about the changes made.",
         "You keep all the responses but make a note of the date you make the changes as well as mention what the changes were."
-      ]
+      ],
+      "correctAnswers": [1, 2]
     },
     {
       "questionText": "You are writing a paper for submission to a journal and your P.I. asks you to add a name to the author section, of someone who did not contribute to the paper. What will you do?",
@@ -34,7 +37,8 @@
         "Ask the PI for an explanation.",
         "Add the name of the author.",
         "Meet the person whose name is to be added and discuss the situation."
-      ]
+      ],
+      "correctAnswers": [3]
     },
     {
       "questionText": "You discover a case of sexual harassment accidentally. What do you do?",
@@ -43,7 +47,8 @@
         "Call someone (e.g., security, supervisor) to address the situation.",
         "Make a record of the incident, including details and context.",
         "Report the incident to the appropriate authorities."
-      ]
+      ],
+      "correctAnswers": [2, 3]
     },
     {
       "questionText": "Testing with 3 answers.",
@@ -51,14 +56,16 @@
         "Here's the first.",
         "Here's the second.",
         "Here's the third."
-      ]
+      ],
+      "correctAnswers": [0]
     },
     {
       "questionText": "Testing with 2 answers.",
       "answers": [
         "Here's the first.",
         "Here's the second."
-      ]
+      ],
+      "correctAnswers": [1]
     }
   ]
 }
